@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NYKEE/static/css/main.c9ca64bc.css",
-    "main.js": "/NYKEE/static/js/main.1e1d988c.js",
-    "static/js/453.844f1361.chunk.js": "/NYKEE/static/js/453.844f1361.chunk.js",
-    "index.html": "/NYKEE/index.html",
-    "main.c9ca64bc.css.map": "/NYKEE/static/css/main.c9ca64bc.css.map",
-    "main.1e1d988c.js.map": "/NYKEE/static/js/main.1e1d988c.js.map",
-    "453.844f1361.chunk.js.map": "/NYKEE/static/js/453.844f1361.chunk.js.map"
+    "main.css": "/product/static/css/main.c9ca64bc.css",
+    "main.js": "/product/static/js/main.5022feab.js",
+    "static/js/453.844f1361.chunk.js": "/product/static/js/453.844f1361.chunk.js",
+    "index.html": "/product/index.html",
+    "main.c9ca64bc.css.map": "/product/static/css/main.c9ca64bc.css.map",
+    "main.5022feab.js.map": "/product/static/js/main.5022feab.js.map",
+    "453.844f1361.chunk.js.map": "/product/static/js/453.844f1361.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ca64bc.css",
-    "static/js/main.1e1d988c.js"
+    "static/js/main.5022feab.js"
   ]
 }
